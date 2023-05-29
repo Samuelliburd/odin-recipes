@@ -1,0 +1,31 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: green;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.Ingredients {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Ingredients ul li {
+    line-height: 25px;
+}
+
+.Steps ol li {
+    line-height: 20px;
+}
+
+.list {
+    text-decoration: none;
+    line-height: 25px;
+}
+
+ .div-list{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
