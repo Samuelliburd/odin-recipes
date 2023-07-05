@@ -2,8 +2,17 @@
     font-family: 'Trebuchet MS', sans-serif;
 }
 
+.content {
+    width: 980px;
+    margin: auto;
+}
+
 .title {
     color: green;
+    display: inline-block;
+    margin: 0px 250px;
+    padding-top: 10px;
+    border: 5px solid red;
 }
 
 .recipes {

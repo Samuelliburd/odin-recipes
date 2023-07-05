@@ -3,6 +3,12 @@
     color: green;
 }
 
+.content {
+    width: 980px;
+    margin: auto;
+    text-align: center;
+}
+
 .link {
     text-decoration: none;
 }
